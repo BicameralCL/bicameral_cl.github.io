@@ -11,13 +11,19 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [[menu.main]]
     name = "Acerca de"
-    url = "/about/"
-[[menu.main]]
-    name = "GitHub"
-    url = "https://github.com/BicameralCL"
+    url  = "/about/"
 [[menu.main]]
     name = "Twitter"
-    url = "https://twitter.com/Bicameral_CL"
+    url  = "https://twitter.com/Bicameral_CL"
+[[menu.main]]
+    name = "Spotify Podcast"
+    url  = "https://open.spotify.com/show/7eL0L2zmrZA9BoSv2zXdzD"
+[[menu.main]]
+    name = "Apple Podcast"
+    url  = "https://podcasts.apple.com/gb/podcast/bicameral/id1471447826"
+[[menu.main]]
+    name = "Google Podcast"
+    url  = "https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9jNzcwMjcwL3BvZGNhc3QvcnNz"
 
 [params]
     description = "Bicameral, el podcast de discusión y análisis de los eventos legislativos en Chile."
