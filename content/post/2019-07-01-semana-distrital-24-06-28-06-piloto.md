@@ -1,7 +1,7 @@
 ---
 title: Semana Distrital 24/06-28/06 (Piloto)
 author: ''
-date: '2019-07-11'
+date: '2019-07-01'
 slug: semana-distrital-24-06-28-06-piloto
 categories: []
 tags: []
