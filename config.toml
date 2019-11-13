@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "es-cl"
 title = "Bicameral"
 theme = "hugo-lithium"
-googleAnalytics = ""
+googleAnalytics = "UA-152402500-1"
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
