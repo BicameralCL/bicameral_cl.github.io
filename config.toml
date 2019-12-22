@@ -16,7 +16,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "Twitter"
     url  = "https://twitter.com/Bicameral_CL"
 [[menu.main]]
-    name = "Spotify Podcast"
+    name = "Spotify"
     url  = "https://open.spotify.com/show/7eL0L2zmrZA9BoSv2zXdzD"
 [[menu.main]]
     name = "Apple Podcast"
