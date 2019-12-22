@@ -1,8 +1,8 @@
 ---
-title: Semana Legislativa 18/11-23/11
+title: Semana Legislativa 18/11-22/11
 author: ''
-date: '2019-11-24'
-slug: acuerdo-paz-nueva-constitucion
+date: '2019-11-23'
+slug: semana-legislativa-18-11-22-11
 categories: []
 tags: []
 ---
